@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Mohiuddin-1280860\\MVC_CORE\\mid-month-9\\MvcCoreApiEmployeeSLn\\MvcCoreApiEmployeeSLn\\MvcCoreApiEmployee\\wwwroot\\Upload\\23.jpg",
+      "PackagePath": "staticwebassets\\Upload\\23.jpg"
+    },
+    {
+      "Id": "D:\\Mohiuddin-1280860\\MVC_CORE\\mid-month-9\\MvcCoreApiEmployeeSLn\\MvcCoreApiEmployeeSLn\\MvcCoreApiEmployee\\wwwroot\\Upload\\33.jpg",
+      "PackagePath": "staticwebassets\\Upload\\33.jpg"
+    },
+    {
+      "Id": "D:\\Mohiuddin-1280860\\MVC_CORE\\mid-month-9\\MvcCoreApiEmployeeSLn\\MvcCoreApiEmployeeSLn\\MvcCoreApiEmployee\\wwwroot\\Upload\\44.jpg",
+      "PackagePath": "staticwebassets\\Upload\\44.jpg"
+    },
+    {
+      "Id": "D:\\Mohiuddin-1280860\\MVC_CORE\\mid-month-9\\MvcCoreApiEmployeeSLn\\MvcCoreApiEmployeeSLn\\MvcCoreApiEmployee\\wwwroot\\Upload\\555.jpg",
+      "PackagePath": "staticwebassets\\Upload\\555.jpg"
+    },
+    {
+      "Id": "D:\\Mohiuddin-1280860\\MVC_CORE\\mid-month-9\\MvcCoreApiEmployeeSLn\\MvcCoreApiEmployeeSLn\\MvcCoreApiEmployee\\wwwroot\\Upload\\66.jpg",
+      "PackagePath": "staticwebassets\\Upload\\66.jpg"
+    },
+    {
+      "Id": "D:\\Mohiuddin-1280860\\MVC_CORE\\mid-month-9\\MvcCoreApiEmployeeSLn\\MvcCoreApiEmployeeSLn\\MvcCoreApiEmployee\\wwwroot\\Upload\\NEXT.jpg",
+      "PackagePath": "staticwebassets\\Upload\\NEXT.jpg"
+    },
+    {
+      "Id": "D:\\Mohiuddin-1280860\\MVC_CORE\\mid-month-9\\MvcCoreApiEmployeeSLn\\MvcCoreApiEmployeeSLn\\MvcCoreApiEmployee\\wwwroot\\Upload\\ghg.jpg",
+      "PackagePath": "staticwebassets\\Upload\\ghg.jpg"
+    },
+    {
+      "Id": "D:\\Mohiuddin-1280860\\MVC_CORE\\mid-month-9\\MvcCoreApiEmployeeSLn\\MvcCoreApiEmployeeSLn\\MvcCoreApiEmployee\\wwwroot\\Upload\\hello.jpg",
+      "PackagePath": "staticwebassets\\Upload\\hello.jpg"
+    },
+    {
+      "Id": "D:\\Mohiuddin-1280860\\MVC_CORE\\mid-month-9\\MvcCoreApiEmployeeSLn\\MvcCoreApiEmployeeSLn\\MvcCoreApiEmployee\\wwwroot\\Upload\\hh.jpg",
+      "PackagePath": "staticwebassets\\Upload\\hh.jpg"
+    },
+    {
+      "Id": "D:\\Mohiuddin-1280860\\MVC_CORE\\mid-month-9\\MvcCoreApiEmployeeSLn\\MvcCoreApiEmployeeSLn\\MvcCoreApiEmployee\\wwwroot\\Upload\\jj.jpg",
+      "PackagePath": "staticwebassets\\Upload\\jj.jpg"
+    },
+    {
+      "Id": "D:\\Mohiuddin-1280860\\MVC_CORE\\mid-month-9\\MvcCoreApiEmployeeSLn\\MvcCoreApiEmployeeSLn\\MvcCoreApiEmployee\\wwwroot\\Upload\\rr.jpg",
+      "PackagePath": "staticwebassets\\Upload\\rr.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MvcCoreApiEmployee.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MvcCoreApiEmployee.props",
+      "PackagePath": "build\\MvcCoreApiEmployee.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MvcCoreApiEmployee.props",
+      "PackagePath": "buildMultiTargeting\\MvcCoreApiEmployee.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MvcCoreApiEmployee.props",
+      "PackagePath": "buildTransitive\\MvcCoreApiEmployee.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
